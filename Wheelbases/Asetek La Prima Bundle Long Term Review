@@ -1,0 +1,113 @@
+Asetek's La Prima bundle might just be the best value in sim racing. 12 newton meters of direct drive force feedback, excellent load cell brake, and an extremely functional steering wheel for €1350. That's less than most standalone wheelbases. But is cheap actually cheerful? I'm Laurence, welcome to the channel.
+
+1. Introduction
+On the left you'll see all the sections in this video. I've put timestamped links to each section in the description below.
+
+Asetek Simsports is a Danish company that's been making waves in sim racing. Their liquid cooling heritage means they know how to manufacture at scale without compromising quality. The La Prima represents their entry into the accessible sim racing market, sitting below the Forte and Invicta in their lineup. But here's the thing - entry level doesn't mean entry quality.
+
+I've been using this bundle for months now. This is a proper long term review with real world experience across multiple sims. The La Prima wheelbase is a 12 Nm direct drive unit. The pedals use Asetek's MLC PC technology with a load cell brake. The steering wheel is a simplified version of their Forte wheel with fewer inputs but the same core functionality. This is PC only hardware.
+
+The La Prima is perfect for several groups. First-time direct drive buyers coming from belt or gear driven wheels will be blown away. Sim racers on a budget who want a complete ecosystem. People who want European quality without European prices. It's also perfect as a second rig - the ecosystem compatibility means you can swap wheels between bases easily. If you're coming from a high-end wheelbase like an SC2 Pro or Invicta, you'll notice the reduced dynamic range. If you need more than 12 Nm, look at the Forte or Invicta.
+
+2. First Impressions
+The packaging is classic Asetek. Brown boxes, foam inserts, everything arrives in perfect condition. The wheelbase is substantial despite being the entry model. The motor is huge - much bigger than you'd expect for 12 Nm. It's the same motor architecture as the Forte and Invicta, just limited in software.
+
+The steering wheel looks very familiar if you've seen the Forte. It's got the same composite housing, same button layout, just with plastic buttons instead of aluminum and no thumb encoders on the sides. The pedals are identical to the Forte pedals in construction. Same base plate, same mounting, same adjustability, even the same brake mechanism.
+
+Visually, the La Prima has a more simplistic look than the Forte and Invicta. No fancy RGB LEDs on the wheelbase. Some people will prefer this minimalist approach. The steering wheel has some LEDs around the rotaries which are nice and bright. You can customize the colors but they won't remember without Race Hub running, which is a bit annoying.
+
+3. Price
+Let's talk value. The complete La Prima bundle is €1350 before taxes. That includes the 12 Nm wheelbase, the two pedal set, and the steering wheel. For context, the Moza R12 wheelbase alone is around €500. Add a wheel and pedals and you're looking at at a similar price for a somewhat comparable Moza setup. The Simagic Alpha Mini is around €600 for just the base. The La Prima bundle is absolutely incredible value.
+
+If you want the clutch pedal, add €249. That's a permanent price reduction from the original €349. However, it's still a pretty big price tag for a far less important pedal. The third party quick release with USB passthrough is €125 and is a must have if you want to use any third party steering wheels without pesky USB cables flying around the place. The front mount is €140 and is nice once mounted.
+
+Compared to the competition, this could genuinely be the best value bundle in sim racing. The Moza R12 claims 12 Nm but feels less powerful than the La Prima. The Simagic Alpha Mini is exceptional and I still highly recommend it along with the Alpha EVO. Entry level Fanatec CSL DD at 8 Nm is €350 for the base alone - add a wheel and pedals and you're at €800 to €1000. The Asetek Forte is 18 Nm for €1085 base only. If you need the extra power and dynamic range, the Forte is worth it. But for most sim racers, the La Prima's 12 Nm is more than enough. You're getting European design and manufacturing at a price that competes with Chinese alternatives. That's remarkable.
+
+4. Installation - Hardware
+Installation is straightforward. The pedals come pre-assembled. Four bolts secure the two pedal set to your rig, six for the three pedal set if you add the clutch. The mounting holes aren't based on industry standards so you'll need to drill if you're not using aluminum profile, but that's standard at any price point.
+
+The wheelbase base mounts easily with pre-installed T-slot nuts. If you want the front mount, you'll need to partially disassemble the wheelbase to install it. It's a bit fiddly but the end result looks fantastic. The front mount fits all rigs with aluminum profile uprights. I'd like measurement markers to help center the wheelbase perfectly, but that's a minor complaint.
+
+One thing to note - there's no emergency stop button on the La Prima. You just get a power button. Press to turn on, press and hold to turn off. You can't accidentally press it during racing which is good.
+
+The quick release is the same wedge style system as the Forte and Invicta. One handed operation, impossible to seat incorrectly, transmits power to the wheel for a battery-free experience. It's genuinely one of the best quick release systems in sim racing.
+
+5. Installation - Software
+Asetek's Race Hub software is great. The interface is clean and intuitive. You don't need to swap between menus constantly. The force feedback settings offer basic and advanced modes. Basic mode is perfect for beginners without being overwhelming. Advanced mode gives you everything you need without drowning you in options.
+
+The default game profiles have improved dramatically over the years. Initially you only get F1 and GT3 presets, but you can create custom profiles. The community has developed fantastic profiles that are shared on Discord. I barely adjust anything these days.
+
+The pedal calibration process is really nice. Smooth, no jagged inputs, easy dead zone adjustment. I recommend removing the initial 2% dead zone if your signal is stable. The pedals perform better with no software dead zone. You can set curves for each pedal individually, though I stick to linear for brake and throttle.
+
+The steering wheel colors are customizable. Shift lights are customizable. You can turn LEDs off individually if you want. The software allows multi-select for LED customization which is convenient. The color palette is limited though - I'd love a custom RGB color picker.
+
+Now for the frustrations. When you save settings to the wheelbase, it causes a noticeable lag spike. Don't press save mid-race. The software occasionally reverts to the F1 profile even when I've been using another sim. I've tried complete system wipes and configuration folder renaming but it keeps happening to me. This doesn't seem to affect anyone else though.
+
+For EA WRC and Dirt Rally 2.0, I've had to manually edit configuration files to get the La Prima recognized. The Asetek Discord is helpful but I'd prefer not to do this every couple of months.
+
+6. La Prima Wheelbase Force Feedback
+Here's where the La Prima absolutely blew my mind. At first, it felt very light. I needed to adjust settings. But after tuning - turning off inertia, turning off friction, increasing overall force to 100% for the full 12 Nm - it felt planted and connected. The detail and clarity are as good as anything in this range.
+
+In a blind test, many people would not be able to tell this apart from a 15 Nm wheelbase. It feels bumps, compressions, and crests perfectly. Everything I look for in force feedback is here. Suspension and curbing feel excellent. Understeer effect is nice and communicative. Lock-up detection is instant. This is what the best force feedback wheels give you. It gives a genuine feeling of being connected to the front wheels which reminds me of Simucube.
+
+I haven't been this impressed since the Simagic Alpha Mini. The La Prima actually has more power than the Alpha Mini, though I can't measure definitively. It's definitely more powerful than the Moza R12 which claims 12 Nm but feels weaker. Compared to entry level Thrustmaster and Logitech wheels, the La Prima is in a completely different league.
+
+The physical sensation is remarkable. My whole rig shakes and I don't have butt kickers enabled. There's a very bassy resonance that feels like butt kickers with twice the wattage. It's absolutely rocking my rig. The mouse cursor often re-appears on screen from the rig vibration but I like to run the FFB high.
+
+Assetto Corsa performance is exceptional. The Forte struggled initially in AC, so I expected the La Prima to struggle too. I was ready to switch to iRacing. But the La Prima absolutely nailed Assetto Corsa. Of course it's going to nail iRacing and everything else, but AC is the real test for me and it passed with flying colors.
+
+I've used this extensively in Assetto Corsa, ACC, iRacing, Le Mans Ultimate, Dirt Rally 2.0, and EA WRC. It's worth spending time with settings if it doesn't feel perfect initially. The community profiles are excellent. There's plenty of power on tap meaning the force feedback is crisp and detailed.
+
+7. La Prima Steering Wheel
+The La Prima wheel is very similar to the Forte wheel. Very familiar looking. You get two seven-way hats in great positions, three center rotaries, and five buttons either side for ten total. That's a surprising amount of inputs for the price. Loads and loads of buttons. Everything is really within reach. Extremely practical. Functionally it's excellent.
+
+What's missing compared to the Forte? Four thumb rotaries on the sides, some LEDs, and no clutch paddles. The clutch paddle absence is major for me personally. If you do standing starts, you're missing out without dual clutch capability. But you can add clutch paddles later with the free firmware update that now supports them, and Asetek offers the clutch paddle upgrades at very keen prices. 
+
+The shifters are made of a hard plastic. Not beautiful to touch but they function well. The wheel is not a world beater from an aesthetics point of view. Not beautiful. But I could not fault it whatsoever in use. Better to have practical than stunning, though ideally you'd have both.
+
+The shifters are somewhat adjustable. I use them at the outermost position. They're magnetic, reliable, and surprisingly easy to install with no wiring required. Though the little square nut inside can rattle loose and I've lost a few over time. It's frustrating.
+
+The LEDs around the rotaries are nice and bright. Colors are customizable. The wheels won't remember colors without Race Hub running which is a bit of a pain. Default colors aren't my preference but that's subjective.
+
+Overall, this is a very functional steering wheel with loads of buttons and decent materials. For the price as part of the bundle, it's exceptional value.
+
+8. La Prima Pedals
+The pedals are the same construction as the Forte pedals. Anodized aluminum, European-made, pre-assembled. The base plate is clever design with good cable management. 
+
+The brake uses Asetek's MLC PC technology. It's a load cell with a single elastomer in a chamber. The elastomer is physically limited in compression. Once it's done compressing, the chamber sends 100% braking force to the load cell. It's similar to a cup system in other pedals. This prevents excessive wear and doesn't allow the elastomer to get overly compressed.
+
+My first impression of the brake caught me by surprise. I expected a very light toyish brake. Instead, there's so much feel. A decent amount of travel. Good for entry level, but can also cater to higher force requirements. The calibration process is really nice. 100% smooth, no jagged inputs. Easy to set dead zones.
+
+The brake isn't the most intuitive initially. You need to get used to it during your first drive. But it's good enough for competitive driving. Default calibration is too hard - they want you to press very hard. I reduced calibration significantly and it felt much better.
+
+Compared to the Heusinkveld Sprints at €700, the La Prima pedals at €350 (as part of the bundle) offer incredible value. They're not as adjustable as the Sprints, but they're more than good enough for most sim racers. The Simagic P1000 pedals are around €500 and don't match the feel of the La Prima brake.
+
+The throttle is very light. It only relies on a small spring with no mechanism behind it. No linkage like the Forte or Invicta. You can adjust throw longer or shorter. It doesn't feel bad though. Not terrible. It does need a bit of weight. The throw is longer than I prefer but it's easily adjusted.
+
+The clutch is €249 which in all honesty is a bit steep. However, it's the same clutch you'd mate with the Invicta pedals which cost considerably more. They only make one clutch add-on and although the price used to be a lot higher, it will still make some people a little uneasy to pay this much for a clutch on an otherwise very affordable bundle. It features a cantilevered mechanism, decent weight for accurate launch control. Good for H-pattern driving in rally, drift, or circuit racing. Worth spending time adjusting. Don't forget vertical adjustment - that's the biggest difference to simulated bite point.
+
+The base plate is more comfortable with shoes than without. Same as Forte pedals. Slightly less rough than Invicta. The smooth pedal faces feel OK without shoes, unlike the aggressive Invicta faces which need shoes.
+
+9. Third Party Quick Release
+The third party quick release with USB passthrough is a major feature. It's a feather in the cap of the whole Asetek product line. Very unique USB integration. If you have a USB wheel, plug it into the QR and it works. Not every wheel is compatible but fairly mainstream wheels should work no problem.
+
+At €125, it's relatively good value in my mind. But the USB integration is unique. It's most likely going to be worth it. The performance is really good and there's no flex in the quick release itself. The QR can be operated with one hand.
+
+The wheel sits slightly closer with the third party QR compared to the native QR. Little bit of an issue for seating position. You might need to angle your screen. But it's decent with both formula and round rims.
+
+10. Final Thought
+I've been using this setup for months now. I was instantly on pace. The force feedback is great - I can't stress that enough. I knew it was going to be good because Asetek is always good, but the La Prima absolutely nailed it. Completely blown away. I'm sold. I was doing laps for enjoyment, not just for review purposes.
+
+The whole rig shakes with this wheelbase. The detail is exceptional. I smiled a lot during testing and even made some weird uncomfortable noises. It's very difficult to find a single flaw in the force feedback. I guarantee anybody who buys this is going to be absolutely delighted.
+
+The pedals have held up perfectly. No issues with the MLC PC brake system. The elastomer hasn't degraded. The load cell is consistent. The steering wheel has been reliable. The magnetic shifters work perfectly. The buttons and grips have held up well.
+
+The software has improved with updates. The community profiles are excellent. The Discord is active and helpful. Asetek is listening to feedback and making changes.
+
+The La Prima bundle could genuinely be the best value in sim racing. I can't imagine anybody buying this and not being happy. Absolutely delighted. It's a complete package: good pedals, excellent force feedback, functional wheel, working QR. The force feedback is as good as any 12 Nm wheelbase I've tested. The pedals are more than good enough for competitive driving. The steering wheel is practical and functional. Everything works together seamlessly.
+
+The frustrations are minor. Software occasionally reverts to F1 profile. Lighting options are limited. The throttle is light. The steering wheel isn't beautiful. But these are quality of life issues, not deal breakers.
+
+Asetek has created a forever wheel here. Very happy with it. Loads of reasons to be excited. I love it, absolutely love it. If you're looking for a complete sim racing package and you have €1350 to spend, the La Prima deserves serious consideration. It's competitively priced, well built, and delivers on its promises.
+
+If you choose to buy this product or any of its competitors, I have affiliate links in the description below. Using those links helps me create more content like this. I stream every Tuesday and Thursday at 9 PM UK time on Twitch. Come say hello. I'm Laurence. I'll chat to you later.
