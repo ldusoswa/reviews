@@ -17,6 +17,7 @@ This repository contains review scripts and content for various sim racing hardw
 
 ```
 reviews/
+├── notes/               # Detailed review notes by brand
 ├── Pedals/              # Pedal system reviews
 ├── Wheelbases/          # Wheelbase reviews
 ├── Steering Wheels/     # Wheel rim reviews
@@ -26,6 +27,27 @@ reviews/
 ├── Blocked/             # On-hold reviews
 └── [Individual files]   # Standalone product reviews
 ```
+
+## Review Notes
+
+The `notes/` directory contains comprehensive, structured review notes organized by brand. These notes include:
+
+- **Quick Reference** - Review status and product overview
+- **Specifications** - Detailed technical specs and marketing claims
+- **Unboxing & Build Quality** - First impressions and packaging details
+- **Performance Analysis** - Force feedback, feel, and detailed testing notes
+- **Strengths & Weaknesses** - Organized pros and cons
+- **Key Quotes** - Direct quotes from video reviews for reference
+- **Comparison Notes** - How products compare to competitors
+- **Use Cases** - Ideal scenarios and target audiences
+- **Long-term Testing** - Ongoing observations and updates
+
+### Current Brands Covered:
+- **Asetek** - Invicta, Forte, La Prima wheelbases and pedals
+- **Cammus** - C5 (5 Nm) and C12 (12 Nm) all-in-one wheelbases
+- **Simagic** - Alpha Evo lineup (Sport, Pro)
+- **Simucube** - Active Pedals Pro
+- And more...
 
 ## Content Format
 
