@@ -696,3 +696,470 @@ The Simucube Active Pedals Pro represent the realization of force feedback pedal
 
 **Key Quote:**
 "There is no better pedal set in the world. There are many pedal sets which are set up better [with time investment], but Simucube Tuner just allows you to reduce that time."
+
+---
+
+# Simucube SC3 Pro Wheelbase & Savu Steering Wheel - Meeting Notes
+
+## Meeting Attendees & Context
+- **Mika Takala** - Product Manager (steering lead and software side)
+  - With Simucube since day one
+  - Worked on Simucube 1, Simucube 2
+  - Software and product management expertise
+- **Toni** - Senior Digital Marketing
+- **Antti** - Lead Designer for wheelbase
+  - Presented technical overview (~20 minutes)
+- **Purpose:** Get reviewer feedback to audience, provide comprehensive product information
+
+## Reviewer Setup & Approach
+- Installed new software the night before meeting
+- **Testing methodology:** Wiped all settings to default
+  - Simulates new user experience
+  - Reviews target new users primarily
+  - Important to test ease of first-time setup
+- **Big improvement noted** in latest software version
+- Hadn't driven with new software yet at time of meeting
+
+## Software Development Status
+- New software released night before meeting
+- **Development continues** - active roadmap
+- **Paddock feature coming later** - highly requested, won't be forgotten
+- Software being amalgamated (combining with True Drive in future)
+
+## Company Philosophy & Values
+- **Reviewer's priority:** Understanding company values and excitement
+  - Why did they do this?
+  - How did they do this?
+  - What's the purpose of features?
+- Company presentation approach welcomed
+- Focus on explaining philosophy behind design decisions
+
+## Quick Release System - P3G Polygon
+
+### Technical Design
+- Based on **P3G polygon** - harmonic shape
+- Used in CNC machines for shaft and hub connections
+- **Harmonic nature = very stable connection without play**
+- Engineering ideology: "maybe overkill, but that's the approach"
+
+### Front Hub Assembly (Three Bolt System)
+- **Known issue identified:** Slight play possible from factory
+- Two separate pieces on wheel-side hub
+- Issue discovered during Expo
+- **Root cause:** Counter-sink screws
+  - If tightened to exact torque immediately, screws may not line up perfectly
+  - Vibrations can loosen them over time
+
+### Updated Tightening Instructions
+- **Correct procedure:**
+  1. Pre-tighten all three bolts
+  2. Then tighten to final torque
+- **Best method:** Turn wheelbase to end stop
+  - Make end stop hard
+  - Lean on end stop while tightening
+  - Wheelbase helps get bolts tight
+- Video instructions created and sent to customers
+- Production instructions updated for early units
+
+## Light Bridge Technology - Power & Data Transfer
+
+### Power Transfer - Magnetic Induction
+- **Coil-based system** (electronic component)
+- **How it works:**
+  - Electric current through coil → creates magnetic field around it
+  - Magnetic field applied to coil → creates electric current
+- **Two parts:**
+  - Stationary coil on wheelbase
+  - Rotating coil on quick release
+- **Same technology as wireless phone chargers**
+
+### Key Benefits
+- **Galvanically isolating** - no conducting path through wheel to wheelbase
+- Completely isolates wheel from ground
+- **Completely wireless** - no physical connection for power transfer
+- **Longevity is main goal**
+
+### Data Transfer - Infrared Light Bridge
+- **Infrared LEDs and receivers**
+- Stationary side and rotating side both have LEDs/receivers
+- **Very fast light pulses** transmit data
+- **Two-way communication:**
+  - Wheelbase sends data to wheel
+  - Wheel sends data back (button presses, etc.)
+
+### Light Bridge Construction
+- Artistic representation shows:
+  - Coils with color coding
+  - Infrared LEDs for data transfer
+- **Fundamentally isolated and completely wireless**
+- Longevity-focused design
+
+## Motor Technology
+
+### Electric Motor Basics
+- **Two main parts:**
+  - **Rotor** - rotating part
+  - **Stator** - stationary part
+- **How it works:**
+  - Coils in stator
+  - Electric current controlled to stator
+  - Rotor follows magnetic field produced in stator
+
+### SPM Motors (Sport & Pro Models)
+- **SPM = Surface Permanent Magnet**
+- Used in SC3 Sport and SC3 Pro
+- Used in Simucube 2
+- **Industry standard** - every meaningful manufacturer uses SPM motors
+
+### IPM Motor (Ultimate Model Only)
+- **IPM = Interior Permanent Magnet**
+- **Why created:** Ultimate specs were too difficult to achieve with SPM
+- **Key difference:** Magnetic field angled 90 degrees from SPM
+  - Points in direction of rotation
+  - Magnetic field lines pinpointed very densely
+- **Benefits:**
+  - Higher torque levels
+  - Much faster response
+  - Smaller power supply needed
+  - Ultimate and Pro share exact same power supply
+
+### Manufacturing Challenges
+- **IPM manufacturing tolerances very strict**
+- "Closer and closer to an ideal motor"
+- **Very difficult to manufacture**
+- Difficulty reflected in price
+- **Only one of its kind in the market** (as of meeting)
+
+## Control Electronics & Architecture
+
+### Ultimate Model Electronics
+- **Completely new control electronics**
+- Based on **Simucube Link style motor control**
+  - Same as Active Pedals
+  - Adapted for wheelbase use
+- **Main PCB responsibilities:**
+  - Simucube Link communication
+  - Acts as IO interface
+  - Control box communication via I2C bus
+  - Knobs and LEDs control
+
+### External Bus Communication
+- **Expandable architecture** - could support other devices beyond control box
+- **No decisions made yet** on future expansion
+- Possibility exists for future devices
+
+## Hardware Assembly
+
+### Component Layout
+- **Left:** Light bridge (rotating + stationary parts)
+- **Right:** Main PCB
+- **Middle:** Motor construction
+- **Quick release PCB** - where wheel connects
+- **Motor shell cover** - gives final SC3 appearance
+
+## Product Lineup
+
+### Three Models
+- **Sport:** 15 Nm
+- **Pro:** 25 Nm  
+- **Ultimate:** 35 Nm
+- **Identical design** - only difference is motor length
+
+### Encoder Upgrade
+- **23-bit absolute optical encoder** (all models)
+- Previous generation (SC2 Sport/Pro): 22-bit
+- Optical, T-format based encoder
+
+## Mounting & Connections
+
+### Mounting Options
+- **Bottom mounting:** 135mm bolt pattern
+  - Different from SC2 Sport/Pro (145mm)
+  - Most rigs use slots instead of exact holes
+  - Should work with 99% of connections
+- **Front mounting:** Available
+
+### Rear Connections
+- Power supply
+- Simucube Link
+- Control box
+
+## Control Box - New Device
+
+### Features
+- **Sleep and activate functions**
+- Activates wheelbase
+- **Activates Active Pedals** - no need to go into Tuner
+  - Automatic homing sequence for pedals
+- **Parameter adjustment knob:**
+  - **Launch:** Torque control only
+  - **Future expansion planned:**
+    - Pedal travel adjustment
+    - Maximum pedal force adjustment
+    - User-definable settings
+- **Simucube Link based** - controls both wheelbase and pedals
+
+### Future Plans
+- On-the-fly adjustments for pedals
+- User-definable parameter selection
+- Not available at launch but planned
+
+## Firmware - Digital Twin Motor Control
+
+### Philosophy
+- **"Firmware is the most important thing"**
+- Can make wheelbase very good or not so good
+- More important than hardware in many ways
+
+### SC3 Firmware - Written from Ground Up
+- **Purpose-built for sim racing** (not industrial motor control like SC2)
+- **Controls the end effector** - the actual newton meters
+- Very different architecture from previous generation
+
+### Digital Twin Concept
+
+**What is a Digital Twin?**
+- **Parameters/specs measured for each unit:**
+  - Inductance of coils
+  - Cogging the motor has
+  - Friction levels
+  - All physical characteristics
+- **Measured during manufacturing**
+- **Also measured dynamically** in user's setup
+  - Different wheels automatically accounted for
+  - Everything dynamically adjusted
+
+**How It Works:**
+- Parameters combined into "digital twin"
+- Digital representation of physical wheelbase
+- Very accurate digital version
+- **Control the digital version**
+- Physical wheelbase follows digital version
+
+### Benefits of Digital Twin Control
+
+**1. Eliminates Non-Idealities**
+- Sensor signal noise removed
+- Temperature effects compensated
+- Consistent feel regardless of conditions
+
+**2. Cross-Model Calibration**
+- **Entire lineup is calibrated together**
+- Create profile on Sport → transfer to Pro/Ultimate
+- **Feels exactly the same across all models**
+- Within limitations (can't create 35 Nm profile on Sport)
+- 15 Nm profile on Sport = identical feel on Pro/Ultimate
+
+**3. Profile Creation Benefits**
+- **Much easier for content creators**
+- Profiles transfer between units
+- Reduces setup time dramatically
+
+**4. Silent Operation**
+- **SC3 is very silent**
+- Due to new algorithm
+- Dynamic adjustment all the time
+
+**5. Wheel Compatibility**
+- **Automatically adjusts for different wheels**
+- Takes wheel weight/characteristics into account
+- No manual adjustment needed
+
+### Industry Leadership
+- **"No one else in this market is controlling their wheelbase this way"**
+- Hand on heart statement from lead designer
+- Very advanced control method
+
+## New Tuner Software
+
+### Design Philosophy
+- **Two-tier approach:**
+  - **Simple:** Two sliders only (max torque + feel)
+  - **Advanced:** Deep dive options available if wanted
+- **Capable of creating very good feel with just two sliders**
+- But advanced options always available
+
+### Reviewer Feedback on New Software
+- **Setup is easy even without profiles**
+- Ran on completely default settings successfully
+- **Easy to adjust** - not overwhelming
+- **Uses real words** instead of engineering terms
+  - Creates implicit trust
+  - User trusts it's doing something meaningful
+- **Big improvement** from previous versions
+  - Old software: all sliders presented immediately (overwhelming)
+  - New software: must go look for advanced options
+
+### User Experience Focus
+- **Getting rid of difficult engineering terms**
+- Making setup discrete and approachable
+- **Online documentation** coming (same week as meeting)
+
+### Known Issue - Device Detection
+- **Reviewer experienced:** Devices not detected on PC startup
+  - Wheelbase not detected
+  - Pedals not detected
+- **Workaround:** Unplug and replug Link Box USB
+  - Then devices appear
+- **Company response:** "Not the user experience we want"
+  - Not a minor thing
+  - Spent significant time on user experience
+  - Will request logs from reviewer
+  - Actively working on USB power suspend features
+
+## Target Market & Use Cases
+
+### Accessibility Focus
+- **60-70% of users:** Just want to buy the best and adjust easily
+- **30-40% of users:** Hardcore, want to adjust every slider
+- Software accommodates both groups
+
+### Social/Shared Rig Scenarios
+- **Friend sits in rig:** "This is too strong"
+- **Old way:** Go into software, adjust slider, test, repeat
+- **New way:** Turn control box knob while they're driving
+  - "How does it feel now?"
+  - Real-time adjustment
+  - Much more attractive experience
+
+### Endurance Racing
+- **On-the-fly adjustment during race**
+- Sometimes need "a little bit more or a little bit less"
+- Control box enables this without leaving sim
+- **Small thing, huge quality of life improvement**
+
+### Professional Drivers
+- **Team Red Line feedback:** "Get faster earlier"
+  - Can find settings faster
+  - Less time experimenting
+  - More time actually racing
+- **Formula 1 drivers using Simucube** (at least 3 known)
+  - Not wheelbase engineers
+  - Don't know what "slew rate" means
+  - New software helps them too
+
+### Engineering vs. Usability
+- **Old feedback from pros:** "This is so engineering and overwhelming"
+- Some pros are into engineering side
+- Others just want to drive
+- **End customers need to push without caring about setup**
+- Settings can make or break a wheelbase
+- Goal: Pro-level simulator at home without engineering degree
+
+## Telemetry & Effects
+- **Reviewer wanted to know more** about telemetry side
+- Hadn't had good chance to play with it yet
+- (Details not extensively covered in this meeting - focused on hardware/firmware)
+
+## Savu Steering Wheel
+
+### Reviewer's Initial Impressions
+- **"Really nice" for OEM wheel** (company-made, not third-party)
+- Good grips
+- Really pleasant to use
+- **Liked it more after using it than before**
+- "Probably like it more after I used it than before I used it"
+
+### Design Philosophy Discussion
+- Reviewer wanted to understand:
+  - Philosophy behind steering wheel
+  - Design decisions
+  - Use cases and intentions
+
+### LED Color Customization - Feedback & Request
+
+**Current Situation:**
+- Individual LED selection can be complex
+- Many people leave it on default orange
+- May not like default but don't want to configure each LED
+
+**Reviewer's Suggestion:**
+- **Allow users to choose 2-3 favorite colors**
+- Get button layout that matches those colors
+- Don't have to select all individual LEDs
+- **Much easier for most users**
+- More people would customize if simpler
+
+**Target User:**
+- People who want customization
+- But don't want complexity
+- Would rather pick favorite colors and get matching layout
+- Avoids leaving on default when they don't love it
+
+### Company Background
+- **Industrial background since day one**
+- Wanted to provide pro-level simulator to home users
+- "Don't need to settle for second best or third best"
+- Same product pros use, available at home
+
+## Software Calibration & Profiles
+
+### Cross-Model Compatibility
+- **Major benefit of digital twin system**
+- Profile created on Sport works on Pro/Ultimate
+- Feels exactly the same (within model limitations)
+- **Huge for content creators and profile sharing**
+
+### Parameter Interaction (Old System)
+- **SC2 problem:** Tweaking one parameter affects others
+- Doesn't get you in direction you're looking for
+- New system addresses this
+
+### New System Benefits
+- **Steers you in right direction**
+- More easy to understand
+- Get faster earlier in your journey
+- Less time finding settings, more time racing
+
+## Meeting Structure
+- ~20 minute presentation from Antti
+- Most time left for questions
+- Company prepared common questions about wheelbase
+- Reviewer could ask anything needed
+- Focus on getting most out of meeting for review purposes
+
+## Reviewer's Familiarity
+- **Already quite familiar** with wheelbase concept
+- Reviewed many, many wheelbases
+- **Very confident** with force feedback quality already
+- "Force feedback is not a concern of mine"
+- "Quality of force feedback is there"
+- Wanted deeper dive on specific aspects (telemetry, philosophy, design)
+
+## Key Takeaways for Review
+
+### What Makes SC3 Special
+1. **Digital twin motor control** - industry-leading, unique approach
+2. **Light bridge technology** - longevity and isolation focused
+3. **IPM motor in Ultimate** - only one of its kind in market
+4. **Cross-model profile compatibility** - huge for users and creators
+5. **User experience focus** - from overwhelming to approachable
+6. **Control box integration** - quality of life for adjustments
+7. **Silent operation** - result of advanced algorithm
+
+### Company Values Demonstrated
+- **Engineering excellence** - "maybe overkill" approach
+- **User experience priority** - spent significant time on UX
+- **Longevity focus** - wireless, isolated design
+- **Accessibility** - pro-level for everyone, not just engineers
+- **Continuous improvement** - active roadmap, listening to feedback
+- **Industrial heritage** - bringing professional tools to consumers
+
+### Areas for Improvement Acknowledged
+- USB detection issue (actively working on it)
+- LED customization complexity (feedback received)
+- Documentation timing (coming same week)
+
+### Future Development
+- Paddock feature coming
+- Control box expansion for pedal control
+- Continued firmware development
+- Possible external device support via bus
+
+## Reviewer Notes
+- Force feedback quality already confirmed (not a concern)
+- Setup experience is easy and improved
+- Implicit trust from real-word terminology
+- Minor USB detection issue needs addressing
+- LED customization could be simpler
+- Overall very positive on product direction and company approach
