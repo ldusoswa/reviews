@@ -761,6 +761,21 @@ The Simucube Active Pedals Pro represent the realization of force feedback pedal
 - Video instructions created and sent to customers
 - Production instructions updated for early units
 
+### SC2 to SC3 Compatibility
+- **SC3 to SC2 quick release adapter coming**
+- Allows SC2 wheels to connect to SC3 wheelbase
+- Maintains backward compatibility with existing wheel ecosystem
+
+### USB Passthrough Modifications
+- **Simucube is open to USB passthrough custom mods**
+- Not officially supported but company is receptive
+- **Warranty implications not yet clear**
+- Already requires shaft disassembly to attach QR extensions
+- **Companies researching USB port exposure on shaft**
+  - Would utilize Simucube's Light Bridge technology behind the scenes
+  - Third-party development in progress
+- Important: Simucube's openness to community innovation
+
 ## Light Bridge Technology - Power & Data Transfer
 
 ### Power Transfer - Magnetic Induction
@@ -793,6 +808,11 @@ The Simucube Active Pedals Pro represent the realization of force feedback pedal
   - Infrared LEDs for data transfer
 - **Fundamentally isolated and completely wireless**
 - Longevity-focused design
+
+### Future Light Bridge Capabilities
+- **Will support displays and digital dashboards in the future**
+- Expansion of Light Bridge technology beyond current functionality
+- Planned feature development for wheel-mounted displays
 
 ## Motor Technology
 
@@ -878,11 +898,16 @@ The Simucube Active Pedals Pro represent the realization of force feedback pedal
   - Most rigs use slots instead of exact holes
   - Should work with 99% of connections
 - **Front mounting:** Available
+  - **Front mount pattern slightly smaller than SC2**
+  - Make sure existing front mount can accommodate SC3
+  - Check compatibility before assuming SC2 mount will work (if slot type, should be fine. if exact hole, may need to drill or modify or buy new mount)
 
 ### Rear Connections
 - Power supply
 - Simucube Link
 - Control box
+- **No antenna on the back** (unlike SC2 which had antenna)
+  - Still supports SC2 wireless despite no visible antenna
 
 ## Control Box - New Device
 
@@ -964,6 +989,12 @@ The Simucube Active Pedals Pro represent the realization of force feedback pedal
 - **Automatically adjusts for different wheels**
 - Takes wheel weight/characteristics into account
 - No manual adjustment needed
+
+**6. Cogging Elimination**
+- **SC3 has technology to recognize cogging and eliminate it on the fly**
+- Software setup for most bases can highlight cogging issues
+- SC3's digital twin system compensates automatically
+- Real-time adjustment without user intervention
 
 ### Industry Leadership
 - **"No one else in this market is controlling their wheelbase this way"**
@@ -1130,12 +1161,15 @@ The Simucube Active Pedals Pro represent the realization of force feedback pedal
 
 ### What Makes SC3 Special
 1. **Digital twin motor control** - industry-leading, unique approach
-2. **Light bridge technology** - longevity and isolation focused
+2. **Light bridge technology** - longevity and isolation focused, future display support
 3. **IPM motor in Ultimate** - only one of its kind in market
 4. **Cross-model profile compatibility** - huge for users and creators
 5. **User experience focus** - from overwhelming to approachable
 6. **Control box integration** - quality of life for adjustments
 7. **Silent operation** - result of advanced algorithm
+8. **Automatic cogging elimination** - recognizes and compensates on the fly
+9. **SC2 compatibility** - adapter coming for existing SC2 wheels
+10. **Community-friendly** - open to USB passthrough mods and innovation
 
 ### Company Values Demonstrated
 - **Engineering excellence** - "maybe overkill" approach
@@ -1163,3 +1197,142 @@ The Simucube Active Pedals Pro represent the realization of force feedback pedal
 - Minor USB detection issue needs addressing
 - LED customization could be simpler
 - Overall very positive on product direction and company approach
+
+---
+
+## Hands-On Review Notes - SC3 Pro & Savu Wheel
+
+### Quick Release - Physical Experience
+
+**What Was Received:**
+- **Only one QR included** (didn't receive second QR)
+- May be standard, but worth noting for review
+
+**Build Quality Issues:**
+- **Paint scuffs on QR handle**
+- Likely fault in anodization or deburring of sharp edge
+- Quality control issue on review unit
+
+**QR Performance:**
+- **Much better than V1** - no awkward pin
+- **Rock solid connection** - no play, very secure
+- **Still a bit sticky to release** - doesn't release as smoothly as:
+  - Asetek quick releases
+  - NRG style quick releases
+- **Effective but a bit stiff**
+- **Easier to use for GT and Formula wheels** (than other wheel types)
+
+### Savu Steering Wheel - Detailed Impressions
+
+**Visual Appeal:**
+- **Looks nicer in real life than in photos**
+- Photos don't do it justice
+- Better presence and finish in person
+
+**Grips:**
+- **Sensational grips**
+- **Similar quality to Bavarian Sim Tech** (high praise)
+- Comfortable and premium feel
+
+**Clutch Functionality:**
+- **Bite point easy to adjust in software**
+- Software control works well
+- User-friendly adjustment process
+
+**LED Issues:**
+- **Wheel LEDs in Savu not behaving as expected**
+- **LED issues in early firmware**
+- Likely to be resolved in updates
+- Worth noting for early adopters
+
+### Software Experience - Tuner 3
+
+**Startup Issues:**
+- **Doesn't detect attached devices on startup** (confirmed issue)
+- "Start devices" greyed out in app tray
+- Must unplug/replug Link Box USB to detect
+- Consistent problem, not isolated incident
+
+**Software Updates:**
+- **Nice and easy** - smooth update process
+- User-friendly update experience
+
+**Color Picker Performance:**
+- **Color picker is slow**
+- **Creating a color layout takes too long**
+- Shouldn't be this time-consuming
+- Needs optimization for better UX
+
+**Overall Software Feel:**
+- **Nice and smooth** when working
+- Good UI/UX when devices are detected
+- Detection issue is main problem
+
+### USB Passthrough - Critical Concern
+
+**The Problem:**
+- **No USB passthrough is "a bit crazy in this era"**
+- Industry standard feature missing
+- Forces wheel manufacturers to use Simucube protocol specifically
+- **Simucube seems to have turned its back on USB completely**
+
+**The Irony:**
+- **Simucube Link Box still communicates to PC via USB**
+- So USB isn't completely avoided
+- Inconsistent philosophy
+
+**The Argument:**
+- "I understand USB can cause issues"
+- **But issues aren't common enough to justify:**
+  - Extra hardware required
+  - Extra cabling required
+  - Forcing proprietary protocol adoption
+- Creates barrier for third-party wheel manufacturers
+- Limits ecosystem growth
+
+**Impact:**
+- Wheel manufacturers must go out of their way to support Simucube
+- Not plug-and-play with standard USB wheels
+- May limit wheel options for SC3 owners
+
+### Technical Issues Encountered
+
+**QR Issue:**
+- Had a QR issue initially
+- **Root cause: Loose bolt** (as discussed in meeting)
+- Not a design flaw, assembly/QC issue
+- Easily fixed once identified
+
+### Active Pedals - Throttle Settings
+
+**Optimal Configuration:**
+- **Active throttle works best with logarithmic curve set**
+- **Feels most natural** to reviewer
+- Personal preference but worth noting
+- Linear may work for others, but logarithmic recommended to try
+
+## Summary of Concerns for Review
+
+### Quality Control
+1. Paint scuffs on QR handle
+2. Only one QR received (if two expected)
+3. Loose QR bolt from factory
+
+### User Experience Issues
+1. Device detection on startup (critical)
+2. Color picker performance (slow)
+3. QR release stiffness (functional but not best-in-class)
+4. LED behavior in early firmware
+
+### Design Philosophy Concerns
+1. **No USB passthrough** - major limitation in modern era
+2. Forces proprietary ecosystem
+3. Limits third-party wheel compatibility
+
+### What Works Well
+1. Rock solid QR connection when assembled correctly
+2. Software updates are smooth
+3. Savu grips are exceptional
+4. Software control for clutch bite point
+5. Overall software UI is nice when working
+6. Active throttle with logarithmic curve feels natural
