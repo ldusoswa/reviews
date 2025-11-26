@@ -1245,6 +1245,44 @@ The Simucube Active Pedals Pro represent the realization of force feedback pedal
 - Likely to be resolved in updates
 - Worth noting for early adopters
 
+**LED Profile Behavior - Confirmed Issue:**
+- **LEDs turn off when entering race session** (only rev gauge works)
+- Default profiles have minimal functionality while driving
+- **Simucube claims this is "correct behavior"** - questionable
+- Idle LED profile switches to driving profile (which appears mostly off)
+- **Current state: Lights on while not driving, mostly off while driving**
+- Not intuitive or expected behavior for most users
+
+**LED Profile System - Current & Future:**
+
+*Current State (Tuner 3.0):*
+- Some built-in "Idle LED Profiles"
+- **Only ONE "Telemetry LED Profile"** currently available
+- Built-in LED Profile Editor available for custom profiles
+- Can create both Idle and Telemetry profiles manually
+- Limited out-of-box functionality
+
+*Short Term Future:*
+- More built-in LED profiles coming for Savu Sport and Pro
+- Fancier Telemetry LED Profiles in development
+- Timeline: "short term future" (unspecified)
+
+*Not-So-Distant Future:*
+- **Device profiles shareable through new Paddock version**
+  - SC2, SC3, Active Pedals profiles
+  - Wheel LED profiles will be added once feature is ready
+- **Simhub LED support coming** via Simucube API
+  - Will make LED control possible through Simhub
+  - Major improvement for customization
+  - Addresses ecosystem limitation
+
+**Reviewer Assessment:**
+- Default LED behavior is poor/confusing
+- Claiming mostly-off LEDs while driving is "correct" is questionable
+- Manual profile creation shouldn't be necessary for basic functionality
+- Future Simhub support will be crucial
+- Early adopter experience is subpar for LED functionality
+
 ### Software Experience - Tuner 3
 
 **Startup Issues:**
@@ -1322,7 +1360,8 @@ The Simucube Active Pedals Pro represent the realization of force feedback pedal
 1. Device detection on startup (critical)
 2. Color picker performance (slow)
 3. QR release stiffness (functional but not best-in-class)
-4. LED behavior in early firmware
+4. **LED default profiles inadequate** - only one telemetry profile, mostly off while driving
+5. Simucube claiming poor LED behavior is "correct" - questionable response
 
 ### Design Philosophy Concerns
 1. **No USB passthrough** - major limitation in modern era
