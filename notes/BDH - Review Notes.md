@@ -446,7 +446,7 @@
 - **Color**: Black and Red
 
 ### Pricing
-- **Base Price**: €965 + taxes
+- **Base Price**: €976 + taxes
 - **Note**: Significantly lower than H1SQ (~€1,300) and H1 (~€1,080-1,350)
 
 ### Core Philosophy
@@ -463,10 +463,13 @@
 
 ### Mechanical Architecture - Dual-Rail System
 - **True Dual-Rail Design**: Inspired by real race gearbox architecture
-- **Independent Shafts**: Separate mechanisms for H-pattern and sequential
+- **Independent Shafts**: Two shafts move in unison for H-pattern; secondary shaft locks for sequential
 - **Mode Selector**: Mechanical mode collar for dual operation with positive engagement
 - **Shaft Guidance**: Precise shaft guidance minimizes mis-shifts under pressure
 - **Zero-Play**: Mechanical feedback with zero play
+- **Hex Drive**: New Hex Drive mechanism eliminates play for solid, confident engagement
+- **Inspiration**: Legendary feel of Porsche and BMW gearboxes
+- **Tactile Data**: Provides tactile data you can trust
 
 ### Materials & Construction
 - **Chassis**: Precision-machined HE260 Aerospace Specification Aluminum
@@ -489,14 +492,17 @@
 - **Selector**: Engineered gear gate selector with equal wear-free spinning ball detent
 - **Centralizing**: CAM mechanism for precise gear selection
 - **Anchor Point**: Precision-made centralizing anchor point
-- **Resistance**: Adjustable detent gauge with double-locking preset function
+- **Resistance**: Adjustable resistance, hand-tuned for perfect gate travel
 - **Gate Travel**: Hand-tuned for perfect gate travel
+- **Feel**: Slicker, more positive H-pattern throw
+- **Character**: Calibrate resistance and feedback to replicate favorite race car's unique character
 
 ### Sequential Mode Features
 - **Mechanism**: High-precision sequential mechanism
 - **Actuation**: Defined actuation points
-- **Feel**: Slicker, faster gear engagement
+- **Feel**: Crisp, locked-out sequential action
 - **Resistance**: Adjustable resistance settings
+- **Engagement**: Slicker, faster gear engagement
 
 ### Electronics & Sensors
 - **Technology**: BDH proprietary contactless Hall Effect sensor technology
@@ -551,13 +557,19 @@
 - **Performance Focused**: Zero-play, zero-lag requirements
 - **Long-Term Investment**: Lifetime warranty coverage
 - **Premium Segment**: Professional-grade construction expectations
+- **Commercial Training Centers**: Built for professional training academies
+- **Professional Development**: Trusted by Motorsport UK for driver development
+- **Home Enthusiasts to Pro Racers**: Grows with user from beginner to professional
 
 ### Value Proposition
-- **Lower Price**: €965 vs €1,300+ for H1SQ
+- **Lower Price**: €976 vs €1,300+ for H1SQ
 - **Better Engineering**: Dual-rail architecture vs single mechanism
-- **Lifetime Warranty**: Long-term reliability guarantee
+- **Lifetime Warranty**: Long-term reliability guarantee (includes commercial use)
 - **Motorsport-Grade**: Race-derived components and design
 - **Future-Proof**: USB-C, Hall Effect sensors, protected circuits
+- **Professional Grade**: Built for commercial training centers
+- **Flex-Free Performance**: Consistent performance from first lap to last
+- **Plug-and-Play**: Easy USB-C setup with advanced mechanics to master
 
 ### Technical Advantages
 - **Zero Input Lag**: Direct USB-C with custom firmware
@@ -572,3 +584,85 @@
 - **Rigs**: All major sim racing rig platforms
 - **Gear Knobs**: Third-party compatible (M10x1.5 thread)
 - **Mounting**: Universal mounting with optional adapters
+- **Software Integration**: New sensor logic ensures flawless software integration
+
+### Professional Endorsements & Usage
+- **Motorsport UK**: Trusted hardware for professional driver development
+- **Commercial Training Centers**: Built for rigors of professional training academies
+- **Elite Competition**: Engineered for elite competition use
+- **Serious Motorsport Hardware**: 4kg full-metal construction for professional use
+
+### Key Marketing Messages
+- **Not Just Simulation**: "This isn't just simulation; it's a deep dive into the mechanical precision that defines professional motorsport"
+- **Real Gearbox Architecture**: Brought to your sim rig
+- **Mechanical Certainty**: Feel the difference precision makes
+- **Master Every Discipline**: With unparalleled authenticity
+- **Ultimate Tool**: For home enthusiasts and professional driver development
+
+---
+
+## Laurence's Review Notes - BDH H2SQ
+
+### First Impressions & Aesthetics
+- **Color**: Beautiful black and red color scheme
+- **Branding**: Love the branding on the front
+- **Visual Appeal**: Looks great on black rig
+- **Overall**: Beautiful unit
+
+### Design & Features
+- **USB Cable**: Removable USB-C cable is great (improvement over H1/H1SQ hardwired)
+- **Side Mounting**: Ability to side mount
+- **Orientation Flexibility**: Can be mounted with barrel facing forward or backward
+  - **Note**: This changes reverse gear position
+
+### Reverse Gear - ISSUE
+- **Dedicated Position**: Reverse is a dedicated position with lockout mechanism
+- **Force Required**: Requires a lot of extra force to engage
+- **Problem**: Reverse is stubborn - don't like the amount of force required
+- **Real-World Impact**: Has cost time in panic situations (getting out of ditches, rejoining track)
+- **Severity**: Significant usability concern in racing scenarios
+
+### H-Pattern Performance
+- **Quality**: Excellent h-pattern
+- **Comparison**: Very few shifters come close
+- **Feel**: Feels like a real h-pattern gearbox
+- **Usage**: Loves to be used in anger in h-pattern mode
+- **Reliability**: Reliable shift
+- **Experience**: Extremely pleasant to use
+
+### Sequential Performance
+- **Overall**: Good but not the best experience out there
+- **Timing Issue**: The shift happens before the tactile feedback
+- **Comparison**: Not as good as:
+  - Simagic Q1
+  - SG RACING
+  - Heusinkveld Magshift
+  - Magshift Mini
+- **Still Good**: Despite comparisons, it's still really good
+- **Usage**: Loves to be used in anger in sequential mode
+
+### Build Quality
+- **Quality**: Good build quality
+- **Gear Knob**: Black gear knob is nice
+- **Manufacturing**: Hand built by a small company with worldwide success and notoriety
+
+### Overall Assessment
+- **Best Combo Unit**: Best combo unit reviewed
+- **End Game**: This is an end game shifter
+- **Price**: Enormous price
+- **Value**: Despite price, delivers on quality and performance
+
+### Key Strengths
+1. Excellent H-pattern experience (few come close)
+2. Best combo unit available
+3. Beautiful aesthetics and build quality
+4. Removable USB-C cable
+5. Flexible mounting options
+6. Reliable and pleasant to use
+7. Feels authentic
+
+### Key Weaknesses
+1. **Reverse gear requires too much force** (costs time in panic situations)
+2. Sequential shift happens before tactile feedback
+3. Sequential not as good as dedicated sequential shifters
+4. Enormous price point
