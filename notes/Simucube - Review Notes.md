@@ -1319,6 +1319,30 @@ The Simucube Active Pedals Pro represent the realization of force feedback pedal
 - So USB isn't completely avoided
 - Inconsistent philosophy
 
+**Simucube Link Hardware (RJ45 / Switch-Hub) - Why Not Software Instead?**
+- **If the “right way” is RJ45 via a switch/hub, it raises a bigger question:**
+  - Why are we not implementing the “smarts” at the software level?
+  - A software-first approach could:
+    - Avoid additional proprietary hardware
+    - Reduce complexity and points of failure (extra box, extra cables, extra power)
+    - Keep ecosystem compatibility higher (less bespoke protocol/hardware requirements)
+    - Potentially **cut USB out completely** instead of “USB, but consolidated behind a Link box”
+- **What the hardware route appears to be doing:**
+  - Moving peripherals into a **network-style physical topology** (RJ45 cabling + switch/hub)
+  - Then bridging back to the PC as a single connection
+- **The critique:**
+  - If the main benefit is “better management/aggregation of devices,” that is a software problem:
+    - Device discovery and centralized management can be solved in-app
+    - Profiles/mapping/telemetry routing can be solved in-app
+    - Input aggregation can be solved with a virtual device layer (merge multiple devices into one logical endpoint)
+  - In that world, requiring a proprietary hardware layer feels like an unnecessary tax on the user and on third-party makers
+- **However, the strongest counterpoint (why hardware might still make sense):**
+  - If Simucube Link is primarily about **electrical stability** (noise, grounding, USB hub flakiness, cable robustness, isolation), software cannot fix those problems
+  - If Link is acting as a “known good” edge layer that enforces consistent timing/transport behavior, that’s also hard to guarantee purely in Windows software
+- **Net takeaway for the review:**
+  - If Link’s value is mostly cable/topology convenience, it’s fair to ask why it isn’t solved in software
+  - If Link’s value is real isolation/stability, then the proprietary hardware is the point — but Simucube should be explicit about that tradeoff
+
 **The Argument:**
 - "I understand USB can cause issues"
 - **But issues aren't common enough to justify:**
