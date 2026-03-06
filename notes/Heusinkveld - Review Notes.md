@@ -649,3 +649,33 @@
 - Compare feel and throw weight to modern sequential shifters
 - V2 handbrake handle design differs significantly from V1 (preference for V1 handle)
 - Consider real-world driver perspective when reviewing sim equipment
+
+---
+
+## Heusinkveld One Steering Wheel
+
+### Key Specs & Build
+- Weight: ~1024 g; diameter ~270 mm at hand positions.
+- Materials: fiber-reinforced composites (stiff, low inertia); composite paddles with metallic feel.
+- Battery: 2800 mAh; long life (weeks of driving, months standby); wireless dongle included.
+- Mounting: integrated 50.8 mm threaded hub; optional 70 mm adapter (15 mm depth); product size 280 x 163 x 95 mm.
+
+### Inputs & Controls
+- 14 buttons (24 interchangeable caps included), 4 push-rotary encoders, 2 seven-way switches.
+- Rear: dual clutch paddles (analog/axis with bite-point and curve tuning), 2-way push/pull shifter paddles (configurable combined/separate outputs).
+- RGB telemetry LEDs x9 on front panel (SimHub configurable); illuminated H-logo with adjustable/disable option.
+
+### Connectivity & Software
+- Wireless PC connectivity via included dongle (low-latency protocol); not console-compatible.
+- SmartControl for button/axis mapping, function layer, short/long press (up to 4 outputs per input), clutch bite point, and brightness control.
+- SimHub support for RGB telemetry LEDs.
+
+### Adjustability & Ergonomics
+- Ergonomic, lightweight grips with large contact patches to reduce fatigue; designed to keep hands on wheel at all times.
+- Shifter paddles: push/pull, length adjustable without tools; configurable outputs per direction and per side.
+- Clutch paddles: combined or separate axes; per-paddle output curves and bite points.
+- Buttons: positions can be relocated; interchangeable labeled caps.
+
+### Use Cases & Positioning
+- Target cars: formula, GT, endurance prototypes; pro training, esports, commercial, and home use.
+- Emphasis on low inertia to preserve FFB detail vs heavier wheels; wireless simplicity with broad wheelbase compatibility via hub/adapter.
