@@ -10,6 +10,101 @@
 
 ---
 
+## Moza HGP Shifter Notes
+
+### Build & Construction
+- Full metal build: CNC-machined, anodized aviation-grade aluminum; solid and sturdy feel.
+- Patented funnel-style dust cover keeps debris out while maintaining clean look.
+
+### Shift Pattern & Feel
+- 7 forward gears + reverse, H-pattern with push-down lockout for 7th and reverse to prevent mis-shifts.
+- Patented damping mechanism delivers positive, smooth, realistic engagement.
+- Replaceable shift knob for aftermarket customization.
+
+### Sensors & Electronics
+- 15-bit non-contact high-precision angle sensor for accurate, long-life detection.
+
+### Software & Features
+- Patented intelligent downshift throttle-blip system (selectable/customizable in Moza Pit House) removes heel-toe requirement and stabilizes downshifts.
+
+### First Impressions
+- H-pattern only (no sequential mode); announced with little lead time.
+- Quality feel reminiscent of VNM; metal gate and ball-style knob feel premium at price.
+- Throw angle is natural/compact vs Fanatec (less wide reach in 5th/7th).
+- Shift feel slightly “clicky”/micro-switch-like but precise; easy plug-and-play calibration.
+- Concern: light push-down lock made it easy to drop into reverse when shifting across/releasing from reverse—may require conscious habit change; would prefer firmer/longer lockout.
+
+### Mounting & Connectivity
+- M6 threaded hole pattern; easy to mount on most rigs. Desk clamp available separately for desktop setups.
+- Connects via USB-B to PC or to a wheelbase shifter port.
+
+### Dimensions & Box Contents
+- Dimensions: 100 x 140 x 250 mm; net weight: 1.8 kg.
+- In the box: shifter, shift knob, USB-B to USB-A cable (1.8m), RJ11 cable (1.5m), M6 screws and spacers, Allen key.
+
+---
+
+## Moza HBP Handbrake Notes
+
+### Build & Hardware
+- ~$99 price point; strong value, eBay-handbrake pricing with premium feel.
+- Metal handle/bracket with brushed edges; electronics housing uses plastic side cover.
+- Ships with spare spring, elastomer piece + spacer pad, tools, USB cable, and wheelbase cable.
+
+### Adjustability & Mounting
+- Handle can be run upright or laid forward; multiple bolt positions to raise/lower and change throw length.
+- Limited base mounting options; handle arc moves toward driver when vertical.
+
+### Feel & Mechanism
+- Default feel mostly spring-based with minimal progression; additional elastomer + spacer can be swapped in for stiffer feel.
+- Hall/magnetic sensing; consistent resistance but little travel differentiation without elastomer swap.
+
+### Impressions
+- Plug-and-play; calibrated immediately in testing.
+- Exceptional build for the price; visually reads more expensive than Fanatec handbrake.
+- Best-in-class value; main limitation is mounting flexibility and modest progression out of the box.
+
+### Specs & Key Features
+- Aviation-grade CNC aluminum body with anodized finish; 0.7 kg.
+- 16-bit non-contact high-precision angle sensor (long life).
+- Pressure/travel adjustable via spring swaps and stop-position changes; spare spring and elastomer + spacer included.
+- Dual mode & multi-angle: run lever vertically or horizontally; multi-angle adjustment supported.
+- Mounting: bolt pattern M6; horizontal lever mount supported; side-mount optional; optional desk clamp; dimensions 153 x 68.3 x 365.5 mm.
+- Connectivity: USB direct to PC or to wheelbase handbrake port.
+
+---
+
+## Moza SGP Sequential Shifter Notes
+
+### Build & Construction
+- All-metal build: aerospace-grade aluminum alloy + high-strength steel; CNC high-gloss cut finish.
+- Standard M12 x 1.5 threaded knob (easy aftermarket swaps).
+
+### Feel & Performance
+- Sequential gearbox feel with smooth, positive engagements and quick rebound.
+- Adjustable damper/resistance for preferred shift weight.
+- Tested for millions of cycles; designed for long-term durability.
+
+### Controls & Features
+- Multi-functional handle supports quick neutral/reverse and assignable functions.
+- Two RGB backlit mechanical buttons (8 color options) for custom mappings.
+- Non-contact Hall sensor for stable, wear-free detection.
+
+### Adjustability & Mounting
+- Handle height adjustable within 64 mm range; personalized comfort.
+- Mount forward or reverse (flexible orientation on rigs).
+
+### Connectivity & Software
+- USB direct to PC or via compatible Moza bases; configured in Moza Pit House (buttons colors/brightness, paddle/sequential settings, reverse mounting).
+
+### Specs & Box Contents
+- Dimensions: 320 x 182 x 52 mm.
+- Housing/lever/knob: aerospace-grade aluminum alloy + high-strength steel.
+- Backlit buttons: 2; color choices: 8; adjustable damper: yes; multi-functional handle: yes.
+- In the box: sequential shifter, shifter handle, USB-B to USB-A cable, RJ11 cable, M6 screws + washers, hex wrench + external hex wrench.
+
+---
+
 ## R25 Ultra Review Notes
 
 ### Key Specifications
