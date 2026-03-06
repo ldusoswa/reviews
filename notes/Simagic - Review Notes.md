@@ -10,6 +10,37 @@
 - [ ] Alpha Evo (12 Nm) - Not tested
 - [x] Third-Party QR with USB (Early Prototype)
 
+## Simagic P500 Pedals
+
+### Key Specs & Sensors
+- Dual-sensor brake: 100 kg load cell for short-travel race feel + Hall angle sensor option for longer-travel road-car style; Hall sensors on throttle/clutch.
+- Resolution: 12-bit (4096). Control box included.
+- Materials: automotive-grade die-cast aluminum alloy, high-precision CNC; total footprint ~330.4 x 355.1 x 209.3 mm; weight ~3.8 kg.
+
+### Adjustability & Ergonomics
+- Lateral pedal spacing adjustment via multiple mounting holes.
+- Pedal face displacement and angle adjustments to fit foot size and seating position.
+- Swappable springs and elastomers; quick-change mechanism for springs/elastomers; adjustable travel, damping, linearity, brake force, and deadzones.
+- Mounting: seat/floor assemblies and wall brackets included; supports rig or floor mounting; upgrade path from 2-pedal to 3-pedal.
+
+### Feel & Options
+- Smooth, precise inputs with load-cell brake for immersion and Hall sensors for consistency.
+- Optional haptics: P-HPR Neo (rumble motors, lower inertia) and P-HPR (linear motor) to emulate ABS/TC/clutch bite.
+
+### Connectivity & Software
+- SimPro Manager for tuning (vibration, amplitude, mapping); plug-and-play pedal control box.
+
+### Compatibility Notes
+- Mounts via provided hardware; upgradeable kit from dual to triple pedal set.
+
+### First Impressions (Video Notes)
+- Packaging includes light plastic base plate with integrated control box, close-together mounts, carpet grips; Logitech-like form factor; cables route cleanly with gaps; comes with stickers, T-slot nuts, springs/elastomer kit, tools.
+- Pedal angle highly adjustable (desk-friendly upright to rig-friendly laid back); pedal face lateral offset holes allow finer spacing than base slots; face angle/placement adjustments help heel/toe but still cramped when brake fully pressed.
+- Default brake: light, limited progression; similar feel to Logitech G Pro/SRP Lite; better than SRP Lite perf kit; softer than CSL Elite V2. Swapping to heavier spring (black) gives two-stage feel (travel to ~70-80%, then load cell), requires recalibration (preload raises baseline %). Load-cell signal stable (no drop-off).
+- Throttle/clutch: light but predictable; fine for desk/casual drift; clutch haptics not very useful.
+- Haptics: P-HPR naming confusing; rumble motors work, default gearshift effect too long until tuned; SimPro Manager haptics UI fussy (per-effect sliders, slow UI), but ABS/TC/slip feedback useful; SimHub also supported.
+- Value: < $300 (2-pedal), ~ $350 with clutch; haptics lift to ~$400; very light set good for motion rigs; not world-beaters but easy to drive quickly in default form; good entry-level load cell option.
+
 ---
 
 ## Official Marketing Claims & Specifications
