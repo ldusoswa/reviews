@@ -44,6 +44,122 @@
 
 ---
 
+## Simagic P700 Pedals
+
+### Key Innovation: Full-Range Adaptive Sensing Technology
+
+#### The Problem It Solves
+- Traditional pedals use fixed signal amplification across entire braking range
+- Light braking inputs get lost in noise (vague feel)
+- Heavy braking inputs risk compression (lack of confidence)
+- Inconsistent feel across the braking range
+
+#### How It Works
+- System intelligently adapts amplification across entire braking range
+- During calibration: identifies real braking force window
+- While driving: dynamically applies optimal amplification at each force level
+- Result: predictable, repeatable, stable inputs lap after lap
+- Smooth, linear response curve vs. competitors' signal fluctuations
+
+### Dual Sensor System
+
+#### 150 KG Load Cell Sensor
+- Measures applied force rather than pedal position
+- Mirrors real vehicle braking behavior
+- No upgrades needed for true-to-track braking
+- Smooth, linear force delivery
+- Precise and realistic brake control
+
+#### Hall Effect Sensor
+- Measures pedal travel (angle)
+- Best suited for floor-mounted configurations with softer elastomers
+- Progressive, passenger car-style braking response
+- Ideal for everyday driving feel
+
+### Brake Configuration Options
+
+#### 35 Brake Settings
+- Packed with 35 brake settings for realistic feedback across vehicle types
+- Quick-change brake setup system
+- Simple adjustment from beginner-friendly to race-ready
+
+#### Configuration Examples
+1. **Passenger Car (Long Travel)**: Soft, progressive feel
+2. **Sports Car (Long Travel)**: Firmer with more travel
+3. **Passenger Car**: Standard road car feel
+4. **Sports Car (Toyota 86)**: Sporty response
+5. **TCR / GT4**: Race-ready, short-travel, high-force
+
+### Build & Materials
+
+#### Construction
+- All-metal design
+- High-strength steel construction
+- Engineered for durability under intense racing
+- Stays solid even under heavy use
+
+#### Innovative Silicone Heel Plate
+- Custom-designed silicone material
+- Anti-slip grip
+- Barefoot-friendly comfort
+- Ergonomic design for immersive experience
+
+### Adjustability
+
+#### Full Customization Options
+- **Angle Adjustment**: Tilt forward or back to match seating posture
+- **Height Adjustment**: Fine-tune pedal height for different foot sizes
+- **Module Spacing Adjustment**: Customize pedal width to suit cockpit and driving style
+- Tailored pedal fit for any setup
+
+#### Mounting Options
+- Carpet grips included for home stability
+- Optional wall mount available for secure installation (sold separately)
+- Compatible with profile frames for advanced sim racers
+- Flexible mounting to build perfect rig
+
+### Haptic Feedback Integration
+
+#### Optional Haptic Pedal Reactor
+- Compatible with Haptic Pedal Reactor (optional accessory)
+- Real-time haptic feedback for immersive driving
+- ABS simulation
+- Configurable strength and frequency settings
+- Example: ABS Active at 50% strength, 30Hz frequency
+
+### Progressive Learning Path
+
+#### Grows With Your Skills
+- Start with forgiving angled setup for first laps
+- Transition to upright, race-style position as control improves
+- Adapts from beginner to advanced driving
+- Pedal that evolves with driver skill
+
+### Software Integration
+
+#### Next-Gen SimPro Manager V3.0.0
+- Custom-tuned FFB settings
+- Haptics pedal module configuration
+- Adjust deadzones, output curves, vibration, amplitude, and response
+- Tailor every pedal to driving style
+- Racing unlimited customization
+
+### Expandability
+
+#### Modular System
+- Optional C-P700 Pedal Clutch available (sold separately)
+- Upgrade from 2-pedal to 3-pedal configuration
+- Compatible with haptic modules
+- Build your ideal setup over time
+
+### Comparison to Competitors
+- **Signal Stability**: P700 exhibits smooth, linear response curve
+- **Competitors**: Display noticeable signal fluctuations over time
+- Smoother curve = more stable and controllable input signal
+- Consistent performance lap after lap
+
+---
+
 ## Official Marketing Claims & Specifications
 
 ### Marketing Tagline

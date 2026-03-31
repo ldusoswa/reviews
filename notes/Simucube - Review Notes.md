@@ -809,6 +809,56 @@ The Simucube Active Pedals Pro represent the realization of force feedback pedal
 - **Fundamentally isolated and completely wireless**
 - Longevity-focused design
 
+---
+
+# Simucube 3 Ultimate - Product Information
+
+## Overview
+Simucube 3 Ultimate is a direct drive force feedback wheelbase that raises performance to an entirely new level, with demands so high it required a completely new type of motor.
+
+## Key Features
+- **Precise, smooth, industry-leading direct drive force feedback (35 Nm)**
+- **Industrial-grade servo motors** engineered exclusively for Simucube
+- **Enhanced detail** – telemetry‑based effects like ABS, RPM, and road texture
+- **Completely re-engineered control algorithm** for maximum accuracy and silent performance
+- **Frictionless setup** – front & bottom mounting, versatile adapters
+
+## Technical Innovation
+Featuring an advanced direct drive optimized IPM motor and it offers 35 Nm of torque with maximum response speed, all while using less power. Professional-grade performance, taken to the next level.
+
+## Important Notes
+- **One Simucube Link Hub is required to operate** - If you do not own Simucube Link Hub, please choose the option "Including Simucube Link"
+- **If you want to use more than one Simucube Link Hub device** such Simucube 3 and ActivePedals, please purchase the Teltonika Ethernet Switch
+
+## Origin & Manufacturing
+- **Designed in Finland, manufactured in EU**
+- **Shipping in 2026**
+
+## Pricing
+- **€ 3394,80** (excluding Simucube Link)
+
+## Frequently Purchased Together
+- **Simucube Link Quick Release** - € 150,06
+- **Simucube 3 shaft extension kit** - € 200,49
+- **Teltonika Ethernet Switch** - € 60,27
+
+## Technical Details
+
+### Dimensions
+- **Wheel base dimensions:** 135 x 135 x 323 mm
+- **Package dimensions:** 190 x 300 x 390 mm
+- **Mounting:** Front and Bottom
+- **Mounting hole pattern DIA:** 135 mm and 78,4 mm
+- **Flange centering feature DIA:** 110 mm
+- **Wheel base weight:** 13 kg
+
+### Specifications
+- **Motor type:** IPM motor. Maximum response speed. Direct drive optimized IPM motor
+- **Max torque:** 35 Nm
+- **Angle sensor:** 23-bit absolute (8 000 000 steps)
+- **Power supply:** 360 W (450 W peak)
+- **Warranty:** 5 years
+
 ### Future Light Bridge Capabilities
 - **Will support displays and digital dashboards in the future**
 - Expansion of Light Bridge technology beyond current functionality
