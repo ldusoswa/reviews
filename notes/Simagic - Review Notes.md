@@ -2,7 +2,7 @@
 
 ## Quick Reference
 - **Review Status**: In Progress - EVO Pro Revisit (awaiting replacement unit)
-- **Last Updated**: 2026-03-19
+- **Last Updated**: 2026-06-23
 
 ## Products Reviewed
 - [x] Alpha Evo Sport (9 Nm)
@@ -10,6 +10,7 @@
 - [x] Alpha Evo Ultra (28 Nm) - First Impressions
 - [ ] Alpha Evo (12 Nm) - Not tested
 - [x] Third-Party QR with USB (Early Prototype)
+- [ ] Simagic P700 Pedals - Notes collected; hands-on review pending
 
 ## Simagic P500 Pedals
 
@@ -45,6 +46,47 @@
 ---
 
 ## Simagic P700 Pedals
+
+> **Product Summary**: Upgraded entry-level pedal set, equipped with a 150 kg load cell and 35 adjustable brake settings for flexible tuning. It features a silicone heel plate for comfort, full adjustability, P-HPR pulse feedback support, and is compatible with both carpet and wall mounting.
+
+### Pricing & Availability
+- **Sale Price**: $189.00
+- **Financing**: From $18/month, or 4 payments at 0% interest with Klarna
+- **Shipping**: Calculated at checkout; tax-included countries list available
+
+### Model Variants / Style Options
+- **P700**: Standard 2-pedal set (brake + throttle)
+- **P700-C**: P700 bundled with C-P700 Pedal Clutch
+- **P700-WM**: P700 bundled with P700 Wall Mount
+
+*Clutch and wall-mount kits are also available as separate add-ons (see Accessories below).*
+
+### Key Features at a Glance
+- **150 kg Load Cell Sensor**
+- **35 Adjustable Brake Settings**
+- **Silicone Heel Plate**
+- **Fully Adjustable Fit** (angle, height, module spacing)
+- **Haptic Module Ready**
+- **Flexible Mounting Options** (carpet, wall, profile frames)
+- **Next-Gen SimPro Manager V3.0.0**
+
+### Official Specifications
+| Specification | Value |
+|--------------|-------|
+| **Pedal Material** | High-Strength Steel |
+| **Heel Plate Material** | Silicone |
+| **Sensor System** | Dual Sensors (Angle Sensor + Load Cell Sensor) |
+| **Load Cell Range** | 150 kg |
+| **Angle Sensor Resolution** | 12-bit High-Accuracy Hall-Effect Sensor |
+| **Adjustable Spring Resistance** | Brake / Throttle / Clutch |
+| **Adjustable Pedal Face** | Height and Angle |
+| **Adjustable Module Spacing** | Supported |
+| **Floor Use** | Supported |
+| **Adjustable Linearity** | Supported |
+| **Adjustable Pedal Force** | Supported |
+| **Dimensions** | 358 × 413 × 218 mm |
+| **Net Weight** | 3.6 kg |
+| **Compatibility** | PC; SIMAGIC Alpha Series Wheelbase; SIMAGIC Alpha EVO Series Wheelbase |
 
 ### Key Innovation: Full-Range Adaptive Sensing Technology
 
@@ -152,6 +194,23 @@
 - Compatible with haptic modules
 - Build your ideal setup over time
 
+#### P700-Specific Optional Accessories
+- **C-P700 Pedal Clutch** (C-P700): Clutch add-on — price not shown on page
+- **P700 Wall Mount** (P700-WM): Wall mounting kit — price not shown on page
+- **P-HPR GT Linear Haptic Pedal Reactor**: $39.00
+- **P-HPR Linear Haptic Pedal Reactor**: $49.00
+
+#### Other Add-ons Shown on the Product Page
+- **HPR Bundle** (1 HPR + 1 APS): $69.00
+- **P2000-HCB Haptic Control Box + Bracket**: $44.90
+- **Accessories Power Supply**: $25.00
+- **P-ORP / P-ORP(H)**: $16.90
+- **Pedal Stop Collar**: $15.90
+- **Sim Ray-Bar** (Standard): $39.00
+- **Sim Ray-Heel Stop** (Standard): $79.00
+
+*Note: Some add-ons listed on the same product page (e.g., P2000-series parts, C-P1000/C-P2000) are intended for other pedal sets.*
+
 ### Comparison to Competitors
 - **Signal Stability**: P700 exhibits smooth, linear response curve
 - **Competitors**: Display noticeable signal fluctuations over time
@@ -160,7 +219,7 @@
 
 ---
 
-## Official Marketing Claims & Specifications
+## Official Marketing Claims & Specifications — Alpha Evo Wheelbases
 
 ### Marketing Tagline
 "New base, New Standards. Evo is not just a slogan. An all-new generation of wheelbase."
