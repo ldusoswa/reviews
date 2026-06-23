@@ -10,7 +10,7 @@
 - [x] Alpha Evo Ultra (28 Nm) - First Impressions
 - [ ] Alpha Evo (12 Nm) - Not tested
 - [x] Third-Party QR with USB (Early Prototype)
-- [ ] Simagic P700 Pedals - Notes collected; hands-on review pending
+- [x] Simagic P700 Pedals - Video review completed
 
 ## Simagic P500 Pedals
 
@@ -50,7 +50,8 @@
 > **Product Summary**: Upgraded entry-level pedal set, equipped with a 150 kg load cell and 35 adjustable brake settings for flexible tuning. It features a silicone heel plate for comfort, full adjustability, P-HPR pulse feedback support, and is compatible with both carpet and wall mounting.
 
 ### Pricing & Availability
-- **Sale Price**: $189.00
+- **Website Sale Price (USD)**: $189.00
+- **Reviewer Regional Pricing**: Pedal set itself less than €300 (roughly Fanatec CSL Elite V2 territory); wall mount ~€24; full haptic configuration ~€500
 - **Financing**: From $18/month, or 4 payments at 0% interest with Klarna
 - **Shipping**: Calculated at checkout; tax-included countries list available
 
@@ -210,6 +211,60 @@
 - **Sim Ray-Heel Stop** (Standard): $79.00
 
 *Note: Some add-ons listed on the same product page (e.g., P2000-series parts, C-P1000/C-P2000) are intended for other pedal sets.*
+
+### Hands-On Review Notes (Video Transcript)
+
+- **Test Duration**: ~6-8 weeks of daily use across multiple sims
+- **Reliability**: No compatibility or reliability issues
+- **Overall Impression**: "Surprisingly good" — easy to assemble, install, and use; right up there with top entry-level recommendations
+
+#### Brake
+- Excellent in both Hall-effect and load-cell modes; currently on one of the heaviest brake settings
+- Reviewer prefers this brake to the Simagic P1000 brake and compares it favorably to the Fanatec CSL Elite V2
+- Suggests that upgrading to €700–€1000 pedals may bring nicer adjustability and build quality, but not necessarily a better braking experience
+
+#### Throttle
+- Throw feels a little long; slightly heavy for the throw
+- Options to swap springs/elastomers or 3D print a shorter pedal face to reduce travel
+- Good overall, but the weakest pedal of the three
+
+#### Clutch
+- Unremarkable; no bite point or major adjustment
+- Effective for drifting; exceptional value at this price
+
+#### Build & Assembly
+- Good build quality; no long-term reliability issues
+- Base plate screws were tight due to thick coating — needed a little force but not a blocker
+- Pedal face angle is adjustable; reviewer tried a more vertical position before returning to default
+
+#### Adjustability
+- Very easy to change springs/elastomers (less than a minute, no tools required)
+- Elastomers are well marked
+- Pedal spacing and face angle are genuinely useful
+
+#### Mounting & Floor Use
+- Works well on carpet with the included feet
+- Includes a wall bracket to keep the set from sliding backward
+- Well thought out for desk and home setups
+
+#### Haptics
+- Optional but fun; expensive enough to significantly change the value proposition (~€500 total with all haptics)
+- One control box and power supply can drive all haptic modules
+- Recommendation priority: **brake first**, **throttle second**, **clutch not needed** at this price point
+- Simagic's effects are small rumble/reactor motors; less refined than the P-HPR linear motor or third-party offset-weight motors, but they work
+- Works in SimPro Manager and SimHub; reviewer prefers SimHub
+
+#### Ecosystem Context
+- P500s feel redundant now that the P700 exists
+- P1000s are more modular and beautiful, but the P700 brake is better
+- P2000s are still a strong set but have slight reliability issues and feel like they need a refresh
+- Great as a standalone USB pedal set regardless of Simagic ecosystem
+
+#### Final Verdict
+- Highly recommended; top entry-level recommendation, especially without haptics
+- Can carry most drivers to 100% of their pace potential
+- From an "experience" standpoint, reaches ~60-70% of what high-end active pedals offer
+- Likely to hold resale value well due to expected broad reviewer consensus
 
 ### Comparison to Competitors
 - **Signal Stability**: P700 exhibits smooth, linear response curve
